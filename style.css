@@ -1,0 +1,28 @@
+.button {
+    background-color: #f8c291;
+}
+
+.card {
+    background-color: #ffff;
+}
+
+.card-title {
+    background-color: #b5a899;
+    color: #ffff;
+}
+
+.card-body-title {
+    background-color: #6d5e51;
+    color: #ffff;
+}
+
+.section-2 {
+    background-image: url('./assets/images/bg-1.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+/* .img-prop { */
+    /* height: 300px; */
+    /* width:100%; */
+/* } */
